@@ -1,10 +1,10 @@
 # Frelan
-Bài tập lớn môn Chuyên đề công nghệ phần mềm
+Bài tập lớn môn Chuyên đề Công nghệ phần mềm
 
 ## Mô tả
-Trang web môi giới việc làm.
+Trang web môi giới việc làm và là bài tập lớn để đánh giá quá trình học tập của môn học.
 
-Đây là phần front-end của trang web được xây dựng bằng Next.js dựa trên framework React.
+Đây là phần front-end của trang web được xây dựng bằng công nghệ Next.js phiên bản 14.2.
 
 Các mục lớn của trang web
   
